@@ -1,0 +1,314 @@
+[
+    {
+        "x1": 757,
+        "y1": 2094,
+        "x2": 846,
+        "y2": 2150,
+        "category": "ImageView",
+        "ocr": "更多"
+    },
+    {
+        "x1": 501,
+        "y1": 2094,
+        "x2": 684,
+        "y2": 2150,
+        "category": "TextView",
+        "ocr": "注册账号"
+    },
+    {
+        "x1": 245,
+        "y1": 2094,
+        "x2": 427,
+        "y2": 2150,
+        "category": "TextView",
+        "ocr": "找回账号"
+    },
+    {
+        "x1": 395,
+        "y1": 1403,
+        "x2": 695,
+        "y2": 1459,
+        "category": "TextView",
+        "ocr": "换个方式登录"
+    },
+    {
+        "x1": 43,
+        "y1": 1201,
+        "x2": 1037,
+        "y2": 1355,
+        "category": "Button",
+        "ocr": ""
+    },
+    {
+        "x1": 534,
+        "y1": 1066,
+        "x2": 554,
+        "y2": 1088,
+        "category": "ProgressBarVertical",
+        "ocr": ""
+    },
+    {
+        "x1": 502,
+        "y1": 1066,
+        "x2": 522,
+        "y2": 1088,
+        "category": "ProgressBarVertical",
+        "ocr": ""
+    },
+    {
+        "x1": 470,
+        "y1": 1066,
+        "x2": 490,
+        "y2": 1088,
+        "category": "ProgressBarVertical",
+        "ocr": ""
+    },
+    {
+        "x1": 438,
+        "y1": 1066,
+        "x2": 458,
+        "y2": 1088,
+        "category": "ProgressBarVertical",
+        "ocr": ""
+    },
+    {
+        "x1": 406,
+        "y1": 1066,
+        "x2": 426,
+        "y2": 1088,
+        "category": "ProgressBarVertical",
+        "ocr": ""
+    },
+    {
+        "x1": 374,
+        "y1": 1066,
+        "x2": 394,
+        "y2": 1088,
+        "category": "ProgressBarVertical",
+        "ocr": ""
+    },
+    {
+        "x1": 342,
+        "y1": 1066,
+        "x2": 362,
+        "y2": 1088,
+        "category": "ProgressBarVertical",
+        "ocr": ""
+    },
+    {
+        "x1": 310,
+        "y1": 1066,
+        "x2": 330,
+        "y2": 1088,
+        "category": "ProgressBarVertical",
+        "ocr": ""
+    },
+    {
+        "x1": 278,
+        "y1": 1066,
+        "x2": 298,
+        "y2": 1088,
+        "category": "ProgressBarVertical",
+        "ocr": ""
+    },
+    {
+        "x1": 246,
+        "y1": 1066,
+        "x2": 266,
+        "y2": 1088,
+        "category": "ProgressBarVertical",
+        "ocr": ""
+    },
+    {
+        "x1": 214,
+        "y1": 1066,
+        "x2": 234,
+        "y2": 1088,
+        "category": "ProgressBarVertical",
+        "ocr": ""
+    },
+    {
+        "x1": 182,
+        "y1": 1066,
+        "x2": 202,
+        "y2": 1088,
+        "category": "ProgressBarVertical",
+        "ocr": ""
+    },
+    {
+        "x1": 150,
+        "y1": 1066,
+        "x2": 170,
+        "y2": 1088,
+        "category": "ProgressBarVertical",
+        "ocr": ""
+    },
+    {
+        "x1": 118,
+        "y1": 1066,
+        "x2": 138,
+        "y2": 1088,
+        "category": "ProgressBarVertical",
+        "ocr": ""
+    },
+    {
+        "x1": 86,
+        "y1": 1066,
+        "x2": 106,
+        "y2": 1088,
+        "category": "ProgressBarVertical",
+        "ocr": ""
+    },
+    {
+        "x1": 54,
+        "y1": 1066,
+        "x2": 74,
+        "y2": 1088,
+        "category": "ProgressBarVertical",
+        "ocr": ""
+    },
+    {
+        "x1": 691,
+        "y1": 1058,
+        "x2": 772,
+        "y2": 1093,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 604,
+        "y1": 1056,
+        "x2": 646,
+        "y2": 1097,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 832,
+        "y1": 1047,
+        "x2": 1034,
+        "y2": 1104,
+        "category": "TextView",
+        "ocr": "忘记密码"
+    },
+    {
+        "x1": 322,
+        "y1": 811,
+        "x2": 753,
+        "y2": 868,
+        "category": "TextView",
+        "ocr": "18068389665"
+    },
+    {
+        "x1": 430,
+        "y1": 532,
+        "x2": 650,
+        "y2": 752,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 51,
+        "y1": 121,
+        "x2": 92,
+        "y2": 185,
+        "category": "Button",
+        "ocr": ""
+    },
+    {
+        "x1": 935,
+        "y1": 25,
+        "x2": 1024,
+        "y2": 59,
+        "category": "TextView",
+        "ocr": ""
+    },
+    {
+        "x1": 55,
+        "y1": 22,
+        "x2": 93,
+        "y2": 60,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 745,
+        "y1": 21,
+        "x2": 784,
+        "y2": 59,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 203,
+        "y1": 21,
+        "x2": 237,
+        "y2": 60,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 860,
+        "y1": 20,
+        "x2": 929,
+        "y2": 61,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 819,
+        "y1": 20,
+        "x2": 857,
+        "y2": 60,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 155,
+        "y1": 20,
+        "x2": 201,
+        "y2": 60,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 95,
+        "y1": 20,
+        "x2": 154,
+        "y2": 60,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 787,
+        "y1": 19,
+        "x2": 816,
+        "y2": 61,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 58,
+        "y1": 31,
+        "x2": 121,
+        "y2": 55,
+        "category": "EditText",
+        "ocr": " HD "
+    },
+    {
+        "x1": 185,
+        "y1": 45,
+        "x2": 191,
+        "y2": 56,
+        "category": "ImageView",
+        "ocr": "4"
+    },
+    {
+        "x1": 493,
+        "y1": 1249,
+        "x2": 595,
+        "y2": 1308,
+        "category": "ImageView",
+        "ocr": "登录"
+    }
+]

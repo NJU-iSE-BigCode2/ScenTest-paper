@@ -1,0 +1,238 @@
+[
+  {
+    "id": "274",
+    "name": "同意",
+    "english": "",
+    "similar": [],
+    "opt": {
+      "id": "1",
+      "name": "点击",
+      "english": "click"
+    },
+    "widget": {
+      "id": "5",
+      "name": "图像视图",
+      "english": "ImageView"
+    },
+    "layout": "",
+    "ocr": {
+      "id": "1",
+      "name": "同意",
+      "similar": []
+    }
+  },
+  {
+    "id": "275",
+    "name": "立即登录",
+    "english": "",
+    "similar": [],
+    "opt": {
+      "id": "1",
+      "name": "点击",
+      "english": "click"
+    },
+    "widget": {
+      "id": "5",
+      "name": "图像视图",
+      "english": "ImageView"
+    },
+    "layout": "",
+    "ocr": {
+      "id": "107",
+      "name": "立即登录",
+      "similar": [
+        {
+          "id": 11,
+          "name": "登录"
+        },
+        {
+          "id": 50,
+          "name": "其他账号登录"
+        },
+        {
+          "id": 51,
+          "name": "微信登录"
+        },
+        {
+          "id": 57,
+          "name": "手机号登录"
+        },
+        {
+          "id": 84,
+          "name": "QQ登录"
+        },
+        {
+          "id": 94,
+          "name": "立即登录>"
+        },
+        {
+          "id": 98,
+          "name": "其他手机号码登录"
+        }
+      ]
+    }
+  },
+  {
+    "id": "276",
+    "name": "微博登录",
+    "english": "",
+    "similar": [],
+    "opt": {
+      "id": "1",
+      "name": "点击",
+      "english": "click"
+    },
+    "widget": {
+      "id": "4",
+      "name": "编辑框",
+      "english": "EditText"
+    },
+    "layout": "",
+    "ocr": {
+      "id": "108",
+      "name": "微博登录",
+      "similar": []
+    }
+  },
+  {
+    "id": "277",
+    "name": "同意",
+    "english": "",
+    "similar": [],
+    "opt": {
+      "id": "1",
+      "name": "点击",
+      "english": "click"
+    },
+    "widget": {
+      "id": "4",
+      "name": "编辑框",
+      "english": "EditText"
+    },
+    "layout": "",
+    "ocr": {
+      "id": "1",
+      "name": "同意",
+      "similar": []
+    }
+  },
+  {
+    "id": "278",
+    "name": "确定",
+    "english": "",
+    "similar": [],
+    "opt": {
+      "id": "1",
+      "name": "点击",
+      "english": "click"
+    },
+    "widget": {
+      "id": "3",
+      "name": "文本框",
+      "english": "TextView"
+    },
+    "layout": "",
+    "ocr": {
+      "id": "113",
+      "name": "确定",
+      "similar": []
+    }
+  },
+  {
+    "id": "279",
+    "name": "手机号",
+    "english": "",
+    "similar": [],
+    "opt": {
+      "id": "2",
+      "name": "输入",
+      "english": "input"
+    },
+    "widget": {
+      "id": "4",
+      "name": "编辑框",
+      "english": "EditText"
+    },
+    "layout": "",
+    "ocr": {
+      "id": "109",
+      "name": "+86",
+      "similar": [
+        {
+          "id": 27,
+          "name": "手机号"
+        },
+        {
+          "id": 34,
+          "name": "密码"
+        }
+      ]
+    }
+  },
+  {
+    "id": "280",
+    "name": "获取验证码",
+    "english": "",
+    "similar": [],
+    "opt": {
+      "id": "1",
+      "name": "点击",
+      "english": "click"
+    },
+    "widget": {
+      "id": "4",
+      "name": "编辑框",
+      "english": "EditText"
+    },
+    "layout": "",
+    "ocr": {
+      "id": "19",
+      "name": "获取验证码",
+      "similar": []
+    }
+  },
+  {
+    "id": "281",
+    "name": "验证码",
+    "english": "",
+    "similar": [],
+    "opt": {
+      "id": "2",
+      "name": "输入",
+      "english": "input"
+    },
+    "widget": {
+      "id": "4",
+      "name": "编辑框",
+      "english": "EditText"
+    },
+    "layout": "",
+    "ocr": {
+      "id": "110",
+      "name": "绑定",
+      "similar": []
+    }
+  },
+  {
+    "id": "282",
+    "name": "绑定",
+    "english": "",
+    "similar": [],
+    "opt": {
+      "id": "1",
+      "name": "点击",
+      "english": "click"
+    },
+    "widget": {
+      "id": "4",
+      "name": "编辑框",
+      "english": "EditText"
+    },
+    "layout": "",
+    "ocr": {
+      "id": "110",
+      "name": "绑定",
+      "similar": []
+    }
+  }
+]

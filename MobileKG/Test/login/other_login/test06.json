@@ -1,0 +1,690 @@
+[
+    {
+        "x1": 67,
+        "y1": 1841,
+        "x2": 113,
+        "y2": 1870,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 753,
+        "y1": 1829,
+        "x2": 807,
+        "y2": 1883,
+        "category": "CheckBox",
+        "ocr": ""
+    },
+    {
+        "x1": 511,
+        "y1": 1827,
+        "x2": 569,
+        "y2": 1885,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 274,
+        "y1": 1827,
+        "x2": 326,
+        "y2": 1885,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 0,
+        "y1": 1787,
+        "x2": 1080,
+        "y2": 1797,
+        "category": "EditText",
+        "ocr": ""
+    },
+    {
+        "x1": 44,
+        "y1": 1607,
+        "x2": 1036,
+        "y2": 1736,
+        "category": "Button",
+        "ocr": ""
+    },
+    {
+        "x1": 504,
+        "y1": 1419,
+        "x2": 950,
+        "y2": 1456,
+        "category": "TextView",
+        "ocr": ""
+    },
+    {
+        "x1": 317,
+        "y1": 1419,
+        "x2": 481,
+        "y2": 1456,
+        "category": "TextView",
+        "ocr": ""
+    },
+    {
+        "x1": 130,
+        "y1": 1419,
+        "x2": 294,
+        "y2": 1456,
+        "category": "TextView",
+        "ocr": ""
+    },
+    {
+        "x1": 327,
+        "y1": 1211,
+        "x2": 754,
+        "y2": 1260,
+        "category": "TextView",
+        "ocr": ""
+    },
+    {
+        "x1": 0,
+        "y1": 1143,
+        "x2": 1080,
+        "y2": 1201,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 992,
+        "y1": 1046,
+        "x2": 1048,
+        "y2": 1139,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 140,
+        "y1": 998,
+        "x2": 940,
+        "y2": 1151,
+        "category": "Button",
+        "ocr": ""
+    },
+    {
+        "x1": 865,
+        "y1": 964,
+        "x2": 930,
+        "y2": 981,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 870,
+        "y1": 946,
+        "x2": 928,
+        "y2": 961,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 869,
+        "y1": 927,
+        "x2": 992,
+        "y2": 1021,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 762,
+        "y1": 916,
+        "x2": 859,
+        "y2": 979,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 656,
+        "y1": 914,
+        "x2": 691,
+        "y2": 932,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 1006,
+        "y1": 895,
+        "x2": 1025,
+        "y2": 912,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 1047,
+        "y1": 893,
+        "x2": 1079,
+        "y2": 905,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 923,
+        "y1": 885,
+        "x2": 980,
+        "y2": 911,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 764,
+        "y1": 819,
+        "x2": 793,
+        "y2": 841,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 1072,
+        "y1": 818,
+        "x2": 1080,
+        "y2": 846,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 698,
+        "y1": 803,
+        "x2": 719,
+        "y2": 832,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 624,
+        "y1": 803,
+        "x2": 648,
+        "y2": 824,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 653,
+        "y1": 795,
+        "x2": 716,
+        "y2": 895,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 538,
+        "y1": 791,
+        "x2": 548,
+        "y2": 806,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 799,
+        "y1": 786,
+        "x2": 815,
+        "y2": 806,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 625,
+        "y1": 758,
+        "x2": 648,
+        "y2": 790,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 681,
+        "y1": 757,
+        "x2": 712,
+        "y2": 778,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 975,
+        "y1": 756,
+        "x2": 1080,
+        "y2": 774,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 1003,
+        "y1": 731,
+        "x2": 1019,
+        "y2": 745,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 968,
+        "y1": 731,
+        "x2": 982,
+        "y2": 745,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 724,
+        "y1": 722,
+        "x2": 1080,
+        "y2": 892,
+        "category": "EditText",
+        "ocr": ""
+    },
+    {
+        "x1": 1070,
+        "y1": 704,
+        "x2": 1080,
+        "y2": 715,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 1032,
+        "y1": 703,
+        "x2": 1059,
+        "y2": 718,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 846,
+        "y1": 691,
+        "x2": 859,
+        "y2": 708,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 881,
+        "y1": 678,
+        "x2": 902,
+        "y2": 694,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 664,
+        "y1": 678,
+        "x2": 681,
+        "y2": 706,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 859,
+        "y1": 668,
+        "x2": 874,
+        "y2": 687,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 735,
+        "y1": 652,
+        "x2": 793,
+        "y2": 710,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 832,
+        "y1": 649,
+        "x2": 847,
+        "y2": 666,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 983,
+        "y1": 648,
+        "x2": 997,
+        "y2": 661,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 991,
+        "y1": 626,
+        "x2": 1007,
+        "y2": 639,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 870,
+        "y1": 600,
+        "x2": 947,
+        "y2": 661,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 40,
+        "y1": 600,
+        "x2": 74,
+        "y2": 618,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 901,
+        "y1": 595,
+        "x2": 993,
+        "y2": 617,
+        "category": "TextView",
+        "ocr": ""
+    },
+    {
+        "x1": 685,
+        "y1": 582,
+        "x2": 755,
+        "y2": 651,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 900,
+        "y1": 577,
+        "x2": 914,
+        "y2": 590,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 1037,
+        "y1": 574,
+        "x2": 1063,
+        "y2": 665,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 865,
+        "y1": 567,
+        "x2": 893,
+        "y2": 594,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 582,
+        "y1": 546,
+        "x2": 830,
+        "y2": 617,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 1009,
+        "y1": 500,
+        "x2": 1038,
+        "y2": 519,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 229,
+        "y1": 498,
+        "x2": 470,
+        "y2": 732,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 958,
+        "y1": 497,
+        "x2": 986,
+        "y2": 512,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 954,
+        "y1": 470,
+        "x2": 976,
+        "y2": 489,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 669,
+        "y1": 469,
+        "x2": 943,
+        "y2": 558,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 62,
+        "y1": 411,
+        "x2": 90,
+        "y2": 446,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 808,
+        "y1": 405,
+        "x2": 1080,
+        "y2": 567,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 2,
+        "y1": 405,
+        "x2": 21,
+        "y2": 426,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 392,
+        "y1": 402,
+        "x2": 795,
+        "y2": 478,
+        "category": "ImageView",
+        "ocr": "起标记生活"
+    },
+    {
+        "x1": 43,
+        "y1": 373,
+        "x2": 57,
+        "y2": 389,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 24,
+        "y1": 323,
+        "x2": 39,
+        "y2": 367,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 4,
+        "y1": 282,
+        "x2": 21,
+        "y2": 333,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 601,
+        "y1": 271,
+        "x2": 655,
+        "y2": 363,
+        "category": "Switch",
+        "ocr": ""
+    },
+    {
+        "x1": 656,
+        "y1": 270,
+        "x2": 843,
+        "y2": 363,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 236,
+        "y1": 252,
+        "x2": 641,
+        "y2": 540,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 72,
+        "y1": 226,
+        "x2": 142,
+        "y2": 621,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 913,
+        "y1": 17,
+        "x2": 1058,
+        "y2": 58,
+        "category": "TextView",
+        "ocr": ""
+    },
+    {
+        "x1": 839,
+        "y1": 17,
+        "x2": 909,
+        "y2": 55,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 21,
+        "y1": 17,
+        "x2": 240,
+        "y2": 89,
+        "category": "CheckBox",
+        "ocr": ""
+    },
+    {
+        "x1": 698,
+        "y1": 16,
+        "x2": 740,
+        "y2": 57,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 789,
+        "y1": 15,
+        "x2": 833,
+        "y2": 56,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 739,
+        "y1": 15,
+        "x2": 787,
+        "y2": 56,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 247,
+        "y1": 15,
+        "x2": 278,
+        "y2": 58,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 284,
+        "y1": 14,
+        "x2": 329,
+        "y2": 58,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 794,
+        "y1": 17,
+        "x2": 805,
+        "y2": 31,
+        "category": "TextView",
+        "ocr": "X"
+    },
+    {
+        "x1": 320,
+        "y1": 1423,
+        "x2": 478,
+        "y2": 1447,
+        "category": "TextView",
+        "ocr": "《隐私政策》"
+    },
+    {
+        "x1": 442,
+        "y1": 1653,
+        "x2": 640,
+        "y2": 1689,
+        "category": "TextView",
+        "ocr": "同意并继续"
+    },
+    {
+        "x1": 35,
+        "y1": 21,
+        "x2": 236,
+        "y2": 50,
+        "category": "ImageView",
+        "ocr": "仅限紧急呼叫"
+    },
+    {
+        "x1": 137,
+        "y1": 1423,
+        "x2": 290,
+        "y2": 1447,
+        "category": "TextView",
+        "ocr": "《用户协议》"
+    },
+    {
+        "x1": 508,
+        "y1": 1423,
+        "x2": 939,
+        "y2": 1447,
+        "category": "TextView",
+        "ocr": "《儿童/青少年个人信息保护规则》"
+    },
+    {
+        "x1": 922,
+        "y1": 20,
+        "x2": 1054,
+        "y2": 51,
+        "category": "ImageView",
+        "ocr": "下午3：59"
+    },
+    {
+        "x1": 344,
+        "y1": 1216,
+        "x2": 744,
+        "y2": 1250,
+        "category": "TextView",
+        "ocr": "请阅读并同意以下条款"
+    },
+    {
+        "x1": 263,
+        "y1": 279,
+        "x2": 678,
+        "y2": 348,
+        "category": "ImageView",
+        "ocr": "欢迎来到小"
+    },
+    {
+        "x1": 502,
+        "y1": 1059,
+        "x2": 655,
+        "y2": 1095,
+        "category": "SeekBar",
+        "ocr": "微信登录"
+    }
+]

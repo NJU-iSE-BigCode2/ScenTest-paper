@@ -1,0 +1,770 @@
+{
+  "login": [
+    {
+      "cnt": "手机号",
+      "widget": "EditText",
+      "ocr": "+86",
+      "opt": "输入",
+      "samples": [
+        {
+          "sample": "login-01.jpg",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "sample": "login-03.png",
+          "x": 0.4,
+          "y": 0.6
+        }
+      ]
+    },
+    {
+      "cnt": "手机号登录",
+      "widget": "ImageButton",
+      "ocr": "手机号登录",
+      "opt": "点击",
+      "samples": [
+        {
+          "sample": "login-13.jpg",
+          "x": 0.11,
+          "y": 0.66
+        }
+      ]
+    },
+    {
+      "cnt": "密码",
+      "widget": "EditText",
+      "ocr": "请输入登录密码",
+      "opt": "输入",
+      "samples": [
+        {
+          "sample": "login-02.jpg",
+          "x": 0.3,
+          "y": 0.5
+        }
+      ]
+    },
+    {
+      "cnt": "邮箱登录",
+      "widget": "EditText",
+      "ocr": "?找回账号淘淘宝登录邮箱登录",
+      "opt": "点击",
+      "samples": [
+        {
+          "sample": "login-11.jpg",
+          "x": 0.655,
+          "y": 0.46
+        }
+      ]
+    },
+    {
+      "cnt": "微信登录",
+      "widget": "EditText",
+      "ocr": "微信登录",
+      "opt": "点击",
+      "samples": [
+        {
+          "sample": "login-04.jpg",
+          "x": 0.3,
+          "y": 0.5
+        },
+        {
+          "sample": "login-05.jpg",
+          "x": 0.3,
+          "y": 0.75
+        },
+        {
+          "sample": "login-06.jpg",
+          "x": 0.18,
+          "y": 0.7
+        },
+        {
+          "sample": "login-08.jpg",
+          "x": 0.5,
+          "y": 0.6286
+        },
+        {
+          "sample": "login-12.jpg",
+          "x": 0.342,
+          "y": 0.35
+        },
+        {
+          "sample": "login-13.jpg",
+          "x": 0.367,
+          "y": 0.66
+        },
+        {
+          "sample": "login-15.jpg",
+          "x": 0.6774,
+          "y": 0.7674
+        },
+        {
+          "sample": "login-16.png",
+          "x": 0.28,
+          "y": 0.5
+        },
+        {
+          "sample": "login-17.png",
+          "x": 0.315,
+          "y": 0.5
+        },
+        {
+          "sample": "login-18.png",
+          "x": 0.596,
+          "y": 0.61
+        }
+      ]
+    },
+    {
+      "cnt": "QQ登录",
+      "widget": "EditText",
+      "ocr": "QQ登录",
+      "opt": "点击",
+      "samples": [
+        {
+          "sample": "login-04.jpg",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "sample": "login-05.jpg",
+          "x": 0.5,
+          "y": 0.75
+        },
+        {
+          "sample": "login-06.jpg",
+          "x": 0.61,
+          "y": 0.7
+        },
+        {
+          "sample": "login-07.jpg",
+          "x": 0.72,
+          "y": 0.5
+        },
+        {
+          "sample": "login-11.jpg",
+          "x": 0.347,
+          "y": 0.46
+        },
+        {
+          "sample": "login-12.jpg",
+          "x": 0.5,
+          "y": 0.35
+        },
+        {
+          "sample": "login-13.jpg",
+          "x": 0.49,
+          "y": 0.66
+        },
+        {
+          "sample": "login-15.jpg",
+          "x": 0.5,
+          "y": 0.7674
+        },
+        {
+          "sample": "login-16.png",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "sample": "login-17.png",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "sample": "login-18.png",
+          "x": 0.41,
+          "y": 0.61
+        }
+      ]
+    },
+    {
+      "cnt": "微博登录",
+      "widget": "EditText",
+      "ocr": "微博登录",
+      "opt": "点击",
+      "samples": [
+        {
+          "sample": "login-04.jpg",
+          "x": 0.7,
+          "y": 0.5
+        },
+        {
+          "sample": "login-05.jpg",
+          "x": 0.7,
+          "y": 0.75
+        },
+        {
+          "sample": "login-06.jpg",
+          "x": 0.4,
+          "y": 0.7
+        },
+        {
+          "sample": "login-07.jpg",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "sample": "login-11.jpg",
+          "x": 0.5,
+          "y": 0.46
+        },
+        {
+          "sample": "login-12.jpg",
+          "x": 0.66,
+          "y": 0.35
+        },
+        {
+          "sample": "login-13.jpg",
+          "x": 0.236,
+          "y": 0.66
+        },
+        {
+          "sample": "login-17.png",
+          "x": 0.68,
+          "y": 0.5
+        },
+        {
+          "sample": "login-18.png",
+          "x": 0.79,
+          "y": 0.61
+        },
+        {
+          "sample": "login-16.png",
+          "x": 0.7267,
+          "y": 0.5
+        }
+      ]
+    },
+    {
+      "cnt": "华为登录",
+      "widget": "EditText",
+      "ocr": "华为登录",
+      "opt": "点击",
+      "samples": [
+        {
+          "sample": "login-06.jpg",
+          "x": 0.815,
+          "y": 0.7
+        },
+        {
+          "sample": "login-07.jpg",
+          "x": 0.725,
+          "y": 0.5
+        }
+      ]
+    },
+    {
+      "cnt": "三点图标",
+      "widget": "Button",
+      "ocr": "抖音号快捷登录",
+      "opt": "点击",
+      "samples": [
+        {
+          "sample": "login-09.jpg",
+          "x": 0.577,
+          "y": 0.5
+        }
+      ]
+    },
+    {
+      "cnt": "手机图标",
+      "widget": "TextView",
+      "ocr": "获得你的抖音手机号",
+      "opt": "点击",
+      "samples": [
+        {
+          "sample": "login-09.jpg",
+          "x": 0.43,
+          "y": 0.5
+        }
+      ]
+    },
+    {
+      "cnt": "抖音图标",
+      "widget": "TextView",
+      "ocr": "抖音图标",
+      "opt": "点击",
+      "samples": [
+        {
+          "sample": "login-10.jpg",
+          "x": 0.425,
+          "y": 0.65
+        }
+      ]
+    },
+    {
+      "cnt": "其他账号登录",
+      "widget": "ImageView",
+      "ocr": "其他账号登录",
+      "opt": "点击",
+      "samples": [
+        {
+          "sample": "login-15.jpg",
+          "x": 0.328,
+          "y": 0.745
+        }
+      ]
+    },
+    {
+      "cnt": "关闭",
+      "widget": "Button",
+      "ocr": "关闭",
+      "opt": "点击",
+      "samples": [
+        {
+          "sample": "login-14.jpg",
+          "x": 0.06,
+          "y": 0.085
+        }
+      ]
+    }
+  ],
+  "airport": [
+    {
+      "cnt": "始发地",
+      "widget": "ImageView",
+      "ocr": "北京",
+      "opt": "选择",
+      "samples": [
+        {
+          "sample": "airport-01.png",
+          "x": 0.125,
+          "y": 0.25
+        },
+        {
+          "sample": "airport-02.png",
+          "x": 0.125,
+          "y": 0.5
+        },
+        {
+          "sample": "airport-03.png",
+          "x": 0.176,
+          "y": 0.214
+        },
+        {
+          "sample": "airport-04.png",
+          "x": 0.125,
+          "y": 0.5
+        },
+        {
+          "sample": "airport-05.png",
+          "x": 0.23,
+          "y": 0.5
+        },
+        {
+          "sample": "airport-06.png",
+          "x": 0.23,
+          "y": 0.5
+        },
+        {
+          "sample": "airport-07.png",
+          "x": 0.22,
+          "y": 0.62
+        },
+        {
+          "sample": "airport-08.png",
+          "x": 0.11,
+          "y": 0.5
+        },
+        {
+          "sample": "airport-09.png",
+          "x": 0.1,
+          "y": 0.45
+        }
+      ]
+    },
+    {
+      "cnt": "目的地",
+      "widget": "ImageView",
+      "ocr": "北京",
+      "opt": "选择",
+      "samples": [
+        {
+          "sample": "airport-10.png",
+          "x": 0.875,
+          "y": 0.25
+        },
+        {
+          "sample": "airport-11.png",
+          "x": 0.875,
+          "y": 0.5
+        },
+        {
+          "sample": "airport-12.png",
+          "x": 0.824,
+          "y": 0.214
+        },
+        {
+          "sample": "airport-13.png",
+          "x": 0.875,
+          "y": 0.5
+        },
+        {
+          "sample": "airport-14.png",
+          "x": 0.77,
+          "y": 0.5
+        },
+        {
+          "sample": "airport-15.png",
+          "x": 0.77,
+          "y": 0.5
+        },
+        {
+          "sample": "airport-16.png",
+          "x": 0.78,
+          "y": 0.62
+        },
+        {
+          "sample": "airport-17.png",
+          "x": 0.89,
+          "y": 0.5
+        },
+        {
+          "sample": "airport-18.png",
+          "x": 0.9,
+          "y": 0.45
+        }
+      ]
+    }
+  ],
+  "shopping": [
+    {
+      "cnt": "输入框",
+      "widget": "TextView",
+      "ocr": "输入框",
+      "opt": "点击",
+      "samples": [
+        {
+          "sample": "shopping-01.jpg",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "sample": "shopping-02.jpg",
+          "x": 0.114,
+          "y": 0.6
+        },
+        {
+          "sample": "shopping-03.jpg",
+          "x": 0.23,
+          "y": 0.5
+        },
+        {
+          "sample": "shopping-04.jpg",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "sample": "shopping-05.jpg",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "sample": "shopping-06.jpg",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "sample": "shopping-07.jpg",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "sample": "shopping-08.jpg",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "sample": "shopping-09.jpg",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "sample": "shopping-10.jpg",
+          "x": 0.5,
+          "y": 0.5
+        }
+      ],
+      "x": 0.5,
+      "y": 0.5
+    },
+    {
+      "cnt": "商品名",
+      "widget": "EditText",
+      "ocr": "商品名",
+      "opt": "输入",
+      "samples": [
+        {
+          "sample": "shopping-11.jpg",
+          "x": 0.27,
+          "y": 0.5
+        },
+        {
+          "sample": "shopping-12.jpg",
+          "x": 0.2762,
+          "y": 0.385
+        },
+        {
+          "sample": "shopping-13.jpg",
+          "x": 0.186,
+          "y": 0.5
+        },
+        {
+          "sample": "shopping-14.jpg",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "sample": "shopping-15.jpg",
+          "x": 0.324,
+          "y": 0.37
+        },
+        {
+          "sample": "shopping-16.jpg",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "sample": "shopping-17.jpg",
+          "x": 0.169,
+          "y": 0.387
+        },
+        {
+          "sample": "shopping-18.jpg",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "sample": "shopping-19.jpg",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "sample": "shopping-20.jpg",
+          "x": 0.5,
+          "y": 0.5
+        }
+      ],
+      "x": 0.5,
+      "y": 0.5
+    },
+    {
+      "cnt": "列表商品",
+      "widget": "ImageView",
+      "ocr": "列表商品",
+      "opt": "点击",
+      "samples": [
+        {
+          "sample": "shopping-21.jpg",
+          "x": 0.5,
+          "y": 0.75
+        },
+        {
+          "sample": "shopping-22.jpg",
+          "x": 0.75,
+          "y": 0.5
+        },
+        {
+          "sample": "shopping-23.jpg",
+          "x": 0.177,
+          "y": 0.5
+        },
+        {
+          "sample": "shopping-24.jpg",
+          "x": 0.25,
+          "y": 0.5
+        },
+        {
+          "sample": "shopping-25.jpg",
+          "x": 0.25,
+          "y": 0.5
+        },
+        {
+          "sample": "shopping-26.jpg",
+          "x": 0.25,
+          "y": 0.5
+        },
+        {
+          "sample": "shopping-27.jpg",
+          "x": 0.6,
+          "y": 0.6
+        },
+        {
+          "sample": "shopping-28.jpg",
+          "x": 0.5,
+          "y": 0.2
+        },
+        {
+          "sample": "shopping-29.jpg",
+          "x": 0.25,
+          "y": 0.5
+        },
+        {
+          "sample": "shopping-30.jpg",
+          "x": 0.25,
+          "y": 0.5
+        }
+      ],
+      "x": 0.5,
+      "y": 0.5
+    }
+  ],
+  "email": [
+    {
+      "cnt": "正文输入框",
+      "widget": "ImageButton",
+      "ocr": "正文",
+      "opt": "点击",
+      "samples": [
+        {
+          "sample": "email-01.png",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "sample": "email-05.png",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "sample": "email-09.png",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "sample": "email-12.png",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "sample": "email-15.png",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "sample": "email-18.png",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "sample": "email-21.png",
+          "x": 0.5,
+          "y": 0.5
+        }
+      ]
+    },
+    {
+      "cnt": "正文",
+      "widget": "EditText",
+      "ocr": "正文",
+      "opt": "输入",
+      "samples": [
+        {
+          "sample": "email-02.png",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "sample": "email-06.png",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "sample": "email-10.png",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "sample": "email-13.png",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "sample": "email-16.png",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "sample": "email-19.png",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "sample": "email-22.png",
+          "x": 0.5,
+          "y": 0.5
+        }
+      ]
+    },
+    {
+      "cnt": "写邮件图标",
+      "widget": "EditText",
+      "ocr": "代办邮件",
+      "opt": "点击",
+      "samples": [
+        {
+          "sample": "email-11.png",
+          "x": 0.935,
+          "y": 0.5
+        },
+        {
+          "sample": "email-14.png",
+          "x": 0.8688,
+          "y": 0.5
+        }
+      ]
+    },
+    {
+      "cnt": "发邮件图标",
+      "widget": "EditText",
+      "ocr": "换行",
+      "opt": "点击",
+      "samples": [
+        {
+          "sample": "email-03.png",
+          "x": 0.8,
+          "y": 0.5
+        },
+        {
+          "sample": "email-07.png",
+          "x": 0.925,
+          "y": 0.81
+        },
+        {
+          "sample": "email-23.png",
+          "x": 0.936,
+          "y": 0.5
+        }
+      ]
+    },
+    {
+      "cnt": "加号",
+      "widget": "Button",
+      "ocr": "W",
+      "opt": "点击",
+      "samples": [
+        {
+          "sample": "email-04.png",
+          "x": 0.89,
+          "y": 0.71
+        },
+        {
+          "sample": "email-08.png",
+          "x": 0.935,
+          "y": 0.5
+        },
+        {
+          "sample": "email-17.png",
+          "x": 0.935,
+          "y": 0.5
+        },
+        {
+          "sample": "email-20.png",
+          "x": 0.8658,
+          "y": 0.89
+        }
+      ]
+    }
+  ]
+}

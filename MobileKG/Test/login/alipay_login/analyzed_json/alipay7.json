@@ -1,0 +1,154 @@
+[
+    {
+        "x1": 31,
+        "y1": 1213,
+        "x2": 1049,
+        "y2": 1370,
+        "category": "Button",
+        "ocr": ""
+    },
+    {
+        "x1": 390,
+        "y1": 1062,
+        "x2": 699,
+        "y2": 1110,
+        "category": "TextView",
+        "ocr": "指纹登录更便捷"
+    },
+    {
+        "x1": 199,
+        "y1": 955,
+        "x2": 887,
+        "y2": 1016,
+        "category": "TextView",
+        "ocr": "登录成功,推荐开通指纹登录"
+    },
+    {
+        "x1": 393,
+        "y1": 362,
+        "x2": 685,
+        "y2": 835,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 956,
+        "y1": 126,
+        "x2": 1046,
+        "y2": 180,
+        "category": "ImageView",
+        "ocr": "关闭"
+    },
+    {
+        "x1": 1001,
+        "y1": 25,
+        "x2": 1019,
+        "y2": 58,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 935,
+        "y1": 25,
+        "x2": 1000,
+        "y2": 58,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 204,
+        "y1": 25,
+        "x2": 236,
+        "y2": 57,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 328,
+        "y1": 24,
+        "x2": 364,
+        "y2": 58,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 55,
+        "y1": 22,
+        "x2": 93,
+        "y2": 60,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 745,
+        "y1": 21,
+        "x2": 784,
+        "y2": 59,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 287,
+        "y1": 21,
+        "x2": 321,
+        "y2": 60,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 242,
+        "y1": 21,
+        "x2": 282,
+        "y2": 61,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 860,
+        "y1": 20,
+        "x2": 929,
+        "y2": 61,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 820,
+        "y1": 20,
+        "x2": 857,
+        "y2": 60,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 155,
+        "y1": 20,
+        "x2": 201,
+        "y2": 60,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 95,
+        "y1": 20,
+        "x2": 154,
+        "y2": 60,
+        "category": "ImageView",
+        "ocr": ""
+    },
+    {
+        "x1": 787,
+        "y1": 19,
+        "x2": 816,
+        "y2": 61,
+        "category": "ImageButton",
+        "ocr": ""
+    },
+    {
+        "x1": 388,
+        "y1": 1263,
+        "x2": 697,
+        "y2": 1322,
+        "category": "TextView",
+        "ocr": "开通指纹登录"
+    }
+]

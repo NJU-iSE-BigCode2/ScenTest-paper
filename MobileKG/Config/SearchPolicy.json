@@ -1,0 +1,22 @@
+{
+  "login": {
+    "type": "both",
+    "layout_sensitive": "FALSE"
+  },
+  "airport": {
+    "type": "layout",
+    "layout_sensitive": "FALSE"
+  },
+  "shopping": {
+    "type": "both",
+    "layout_sensitive": "FALSE"
+  },
+  "email": {
+    "type": "both",
+    "layout_sensitive": "TRUE"
+  },
+  "register": {
+    "type": "both",
+    "layout_sensitive": "FALSE"
+  }
+}
