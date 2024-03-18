@@ -71,7 +71,7 @@
 
   * If what needs to be analyzed now is the start page of the login function point of the "Dewu" APP, the page is as shown below
 
-  <img src="PICS/得物.PNG" style="width:50%"/>
+  <img src="PICS/Dewu1.PNG" style="width:50%"/>
 
   * The path of this image is `../Test/pictures/dewu-01.png`, then the format of picture and `split_dic` are:
 
